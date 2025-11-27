@@ -18,13 +18,12 @@ EduBot is a 24/7 academic assistant built using **Google Gemini API**, **FastAPI
 
 ## 📸 UI Preview
 
-### 🌤️ Light Mode
+## 🌤️ Light Mode
+![Light Mode UI](assets/light_mode.png)
 
-![Light Mode UI](./11f575cc-8793-4d3b-92da-990ebea971a7.jpg)
+## 🌙 Dark Mode
+![Dark Mode UI](assets/dark_mode.png)
 
-### 🌙 Dark Mode
-
-![Dark Mode UI](./d33f820e-8a25-4812-b5f2-8aa71c48410f.jpg)
 
 ---
 
@@ -114,3 +113,4 @@ For improvements, issues, or suggestions, feel free to open a GitHub issue or co
 ---
 
 ⭐ **If you like this project, don't forget to star the repo!**
+
